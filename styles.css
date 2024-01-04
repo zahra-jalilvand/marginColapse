@@ -4,11 +4,13 @@
 
 }
 
-.fruit-1{
-    margin-bottom: 60px ;
-}
+.h-4{
     
-.fruit-2{
-        margin-top: 20px;
- }
-        
+    background-color: rgb(44, 158, 158);
+    margin-bottom: 60px;
+  }
+
+.h-5{
+    background-color:rgb(83, 165, 42);
+    margin-top: 20px;
+  }
